@@ -1,0 +1,19 @@
+body{
+  background-color: #e8ffff;
+}
+
+td{
+  border: solid;
+}
+.tab { margin-left: 40px; }
+
+
+.profileImage{
+  height: 300px;
+  width: 300px;
+  border-radius: 300px;
+}
+
+.notbold{
+    font-weight:normal
+}​
